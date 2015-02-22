@@ -8,7 +8,7 @@ c = []
 d = []
 
 start_time = datetime.datetime.now()
-for i in range(0,4):
+for i in range(0,7):
 	c.append(fib(b[i]))
 	end_time = datetime.datetime.now()
 	time = end_time - start_time
